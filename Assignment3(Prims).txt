@@ -1,3 +1,6 @@
+*************COPY THE CODE CAUTIOUSLY. DO NOT COPY THE COMMENTS. COMMENTS GET SHIFTED ACCORDING TO TAB SIZE****************************
+
+
 Aim: Implement Greedy Search Algorithm for any of the following application: Prim's Minimal
 Spanning Tree Algorithm
 

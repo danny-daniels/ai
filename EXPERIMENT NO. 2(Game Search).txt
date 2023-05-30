@@ -1,3 +1,5 @@
+*************COPY THE CODE CAUTIOUSLY. DO NOT COPY THE COMMENTS. COMMENTS GET SHIFTED ACCORDING TO TAB SIZE****************************
+
 EXPERIMENT NO. 2
 Aim: Implement A star Algorithm for any game search problem.
 

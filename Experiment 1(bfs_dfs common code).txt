@@ -1,3 +1,5 @@
+*************COPY THE CODE CAUTIOUSLY. DO NOT COPY THE COMMENTS. COMMENTS GET SHIFTED ACCORDING TO TAB SIZE****************************
+
 Experiment No. 1
 
 Aim: Implement depth first search algorithm and Breadth First Search algorithm, Use an undirected

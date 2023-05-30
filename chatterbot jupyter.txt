@@ -1,14 +1,27 @@
+*************COPY THE CODE CAUTIOUSLY. DO NOT COPY THE COMMENTS. COMMENTS GET SHIFTED ACCORDING TO TAB SIZE****************************
+
 pip install chatterbot==1.0.4
+
 pip install spacy
+
 import spacy
+
 pip install --upgrade PyYaml==3.12
+
 from chatterbot.trainers import ChatterBotCorpusTrainer
+
 from chatterbot import ChatBot
+
 from chatterbot.trainers import ListTrainer
+
 import time
+
 time.clock = time.time
+
 chatbot = ChatBot('Google')
+
 trainer = ListTrainer ( chatbot)
+
 custom_data = [
  "Hi, can I help you?" ,
  'I am good, thank you!',
@@ -21,8 +34,11 @@ custom_data = [
  'Do you have any pets?',
  'Since I am a virtual assistent, I don\'t have any pets.',
 ]
+
 chatbot.storage.drop()
+
 trainer.train(custom_data)
+
 while True:
     user_input = input("You: ")
     if user_input == "exit":

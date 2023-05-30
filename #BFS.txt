@@ -1,5 +1,6 @@
-#BFS
 
+*************COPY THE CODE CAUTIOUSLY. DO NOT COPY THE COMMENTS. COMMENTS GET SHIFTED ACCORDING TO TAB SIZE****************************
+#BFS
 #It has a constructor method __init__ that initializes an empty dictionary graph as an instance variable.
 
 class Graph:

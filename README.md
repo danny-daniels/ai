@@ -1,3 +1,3 @@
 # ai
 # swipl -s new.pl              
-new.pl==file name
+new.pl = file name

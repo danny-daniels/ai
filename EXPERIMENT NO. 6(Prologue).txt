@@ -12,7 +12,8 @@ VI. Airline scheduling and cargo schedules
 Objective:
 • To study and implement expert system using Prolog.
 
-
+####*** Note = Command for run code on terminal ***#####
+####*** swipl -s new.pl       new.pl is file name***#####
 #############################################Code:###################################################
 
 #The code starts with the go/0 predicate, which serves as the entry point of the expert system.
